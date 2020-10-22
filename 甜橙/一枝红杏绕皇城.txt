@@ -1,0 +1,8 @@
+{
+    "id": 526,
+    "title": "一枝红杏绕皇城",
+    "author": "懒懒七",
+    "description": "她参与了自己的葬礼，亲眼看着装有自己尸体棺材被彻底埋葬。",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/一枝红杏绕皇城",
+    "wordCount": 891847
+}

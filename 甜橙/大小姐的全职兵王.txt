@@ -1,0 +1,8 @@
+{
+    "id": 513,
+    "title": "大小姐的全职兵王",
+    "author": "青山流水",
+    "description": "为了朋友和国家，全职兵王邓凡强势回归，化身美女总裁的贴身保镖，横扫八方之敌，谱写都市王者传奇！  他——风流而不下流，醒掌天下权；玩美无数，醉卧美人膝！",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/大小姐的全职兵王",
+    "wordCount": 1.1505e+06
+}

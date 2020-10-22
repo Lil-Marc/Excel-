@@ -1,0 +1,8 @@
+{
+    "id": 560,
+    "title": "重生之复仇千金",
+    "author": "听夏",
+    "description": "“娶你，只是为了你的家产！”大婚前夕，相恋多年的未婚夫露出獠牙，名门千金含冤暴毙。再醒来，灵魂重生到另一个女人的身上，她发誓，夺她家产害她惨死者，统统要血债血偿！！",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/重生之复仇千金",
+    "wordCount": 587800
+}

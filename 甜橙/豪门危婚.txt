@@ -1,0 +1,8 @@
+{
+    "id": 515,
+    "title": "豪门危婚",
+    "author": "黎书",
+    "description": "沦陷于爱情谎言，遭情敌陷害，从遥不可及的校花女神，成为千夫所指的小三。她一人背负所有骂名，不得已逃到国外躲避风波。  三年后痴情如她，忘了旧伤嫁给她，遭背叛，但于他婚姻不过是一场交易.......",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/豪门危婚",
+    "wordCount": 1.098565e+06
+}

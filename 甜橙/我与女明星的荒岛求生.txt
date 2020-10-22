@@ -1,0 +1,8 @@
+{
+    "id": 502,
+    "title": "我与女明星的荒岛求生",
+    "author": "风飞扬",
+    "description": "去里约看奥运会不料遇到了空难落到了荒岛上，而且同时跟我落到荒岛上的还有几个美女大明星.......",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/我与女明星的荒岛求生",
+    "wordCount": 1.919354e+06
+}

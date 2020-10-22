@@ -1,0 +1,8 @@
+{
+    "id": 537,
+    "title": "邪王强宠：重生狂妃不好惹",
+    "author": "光年",
+    "description": "上一世她轻信奸人，被害惨死，而这一世她重生归来，一切，都将不一样……",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/邪王强宠：重生狂妃不好惹",
+    "wordCount": 781000
+}

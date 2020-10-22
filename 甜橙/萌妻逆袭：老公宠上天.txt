@@ -1,0 +1,8 @@
+{
+    "id": 508,
+    "title": "萌妻逆袭：老公宠上天",
+    "author": "阿厘",
+    "description": "为了报复，她步步为营，却没想到一朝失算，进了别人的房间，还惹上了不该惹的人…… “先……先生我不是故意的……” “惹了我就想跑？女人，你以为我是谁？” 受伤的小兔子居然睡了狠绝大灰狼？完了完了，这下真的死定了！",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/萌妻逆袭：老公宠上天",
+    "wordCount": 1.262824e+06
+}

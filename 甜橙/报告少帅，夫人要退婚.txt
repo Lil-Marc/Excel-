@@ -1,0 +1,8 @@
+{
+    "id": 536,
+    "title": "报告少帅，夫人要退婚",
+    "author": "醉梦",
+    "description": "乱世年代，硝烟四起。冷泉灵万万没想到，自己会与一个威名赫赫的少帅……纠缠了一世爱恨情仇。 ",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/报告少帅，夫人要退婚",
+    "wordCount": 781335
+}

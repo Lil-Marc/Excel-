@@ -1,0 +1,8 @@
+{
+    "id": 554,
+    "title": "宝贝计划：这个妈咪我要了",
+    "author": "茹初",
+    "description": "日常捡了个小包子，没想到却被他缠上了…… ",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/宝贝计划：这个妈咪我要了",
+    "wordCount": 280400
+}

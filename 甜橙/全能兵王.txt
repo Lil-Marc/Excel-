@@ -1,0 +1,8 @@
+{
+    "id": 557,
+    "title": "全能兵王",
+    "author": "归来的战鹰",
+    "description": "昔日兵王回归都市，守护亲人。谁知美女身边麻烦不断，怒举铁拳统统摆平；在这个弱肉强食的社会，看谁拳头硬！",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/全能兵王",
+    "wordCount": 1.874e+06
+}

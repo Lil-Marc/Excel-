@@ -1,0 +1,8 @@
+{
+    "id": 539,
+    "title": "夜路莫回头",
+    "author": "远航",
+    "description": "夜路莫回头，脚寒三步咒，黑白无常来，地门百鬼愁。  我叫钟心，谐音也就是忠心，起初我不知道为什么母亲会替我起这名字，但直到了后来，百灾横生，我才知道了我们钟家祖上的种种辛秘的源头——碧血丹心，牵鬼护道。",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/夜路莫回头",
+    "wordCount": 759477
+}

@@ -1,0 +1,8 @@
+{
+    "id": 546,
+    "title": "掠爱成瘾：冷情总裁请放手",
+    "author": "唯妙",
+    "description": "乔千芸是爷爷在外面的老来子，从她十岁被接进乔家后，我的好日子就到头了，她仗着爷爷对她的宠爱在家里横行霸道，抢走了我喜欢的所有东西，包括我一直爱着的那个人……",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/掠爱成瘾：冷情总裁请放手",
+    "wordCount": 658565
+}

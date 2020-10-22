@@ -1,0 +1,8 @@
+{
+    "id": 559,
+    "title": "重生之嫡女惊华",
+    "author": "花千千",
+    "description": "她本是相府嫡女，却被夫君害死，含恨而终。一朝重生，回到十年前，从此懦弱不在，她势必强大自己，报前世之仇！他是贤王世子，表面上逍遥肆意，实则腹黑强大。且看重生的嫡女，不再软弱不再可欺，走出属于自己的光华万丈的未来。",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/重生之嫡女惊华",
+    "wordCount": 745500
+}

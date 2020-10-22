@@ -1,0 +1,8 @@
+{
+    "id": 538,
+    "title": "葬你入棺",
+    "author": "半饮残酒",
+    "description": " 自一出生，我就是“棺材仔”冥冥中注定我孤独一生。   棺材铺里阴气重，所以我单身了20年。  可却阴差阳错，娶得一“千金小姐”，  我的人生观，瞬间崩溃了....         ",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/葬你入棺",
+    "wordCount": 767234
+}

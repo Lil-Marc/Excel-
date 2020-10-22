@@ -1,0 +1,8 @@
+{
+    "id": 529,
+    "title": "老千",
+    "author": "瓮城老六",
+    "description": "俗话说，十赌九输，一切都看命运。  然而事实不是这样，实际上很多“常胜将军”并非依靠所谓“运气”，而是掌握了一些不为人知且绝非公平的“赌术”......",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/老千",
+    "wordCount": 878613
+}

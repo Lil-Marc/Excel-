@@ -1,0 +1,8 @@
+{
+    "id": 549,
+    "title": "我的超神女友",
+    "author": "铁竹",
+    "description": "住着廉价出租屋还能艳遇不断，能一个打十个，能横扫格斗界，从富二代沦落为屌丝，又从屌丝逆袭成土豪的男人，还有谁？没错，那就是我——甄真！PS:细读下去，你就能体会到书中自有黄金屋和书中自有颜如玉的道理。",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/我的超神女友",
+    "wordCount": 574337
+}

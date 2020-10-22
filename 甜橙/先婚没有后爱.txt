@@ -1,0 +1,8 @@
+{
+    "id": 535,
+    "title": "先婚没有后爱",
+    "author": "奴家不坑",
+    "description": "她的婚姻，从头到尾就是个笑话。  “你这一生，都要来还债。”他矜贵淡漠，声音沉冷。  她想逃！  “哪怕我死，都跟你没关系！”  可他却把她锢住，字字迫人，“你敢？”",
+    "cover": "http://img.midukanshu.com/browser/copyright/tianchengData/先婚没有后爱",
+    "wordCount": 781747
+}
