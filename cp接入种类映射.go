@@ -5,7 +5,7 @@ import (
 	"github.com/360EntSecGroup-Skylar/excelize"
 )
 func main() {
-	f, err := excelize.OpenFile("咪咕分类映射.xlsx")
+	f, err := excelize.OpenFile("咪咕分类映射（新）.xlsx")
 	if err != nil {
 		fmt.Println(err)
 		return
